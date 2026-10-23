@@ -60,22 +60,6 @@ A real-time American Sign Language to text conversion project using computer vis
 
 🔗 **Repository:** [ASL to Text](https://github.com/Rakshithkumar77/ASLTOTEXT)
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakshithkumar77&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithkumar77&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakshithkumar77&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshithkumar77&theme=tokyo-night" alt="GitHub contribution activity graph" />
-</p>
 
 ## 🎯 Currently Focusing On
 
